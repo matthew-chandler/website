@@ -1,4 +1,8 @@
 site_name: Matthew Chandler
 site_url: https://machandler.com
+site_author: Matthew Chandler
+
+repo_url: https://github.com/matthew-chandler/website
+
 theme:
   name: material
