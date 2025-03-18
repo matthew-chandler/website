@@ -1,5 +1,5 @@
 site_name: Matthew Chandler
-site_url: https://machandler.com
+site_url: https://www.machandler.com
 site_author: Matthew Chandler
 
 docs_dir: docs
@@ -39,6 +39,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: date
+  - social
 
 markdown_extensions:
   - attr_list
