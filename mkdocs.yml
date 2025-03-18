@@ -16,7 +16,24 @@ theme:
   features:
     - content.action.view
     - content.action.edit
+    - navigation.footer
   custom_dir: overrides
+
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/matthew-chandler
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/chandler-matthew/
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/users/295627107113893898
+    - icon: fontawesome/brands/square-letterboxd
+      link: https://letterboxd.com/MipsyTheBlue/
+    - icon: fontawesome/brands/goodreads
+      link: https://www.goodreads.com/user/show/184444701-matthew-chandler
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/id/mipsytheblue/)
 
 plugins:
   - git-revision-date-localized:
