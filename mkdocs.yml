@@ -40,6 +40,7 @@ plugins:
       enable_creation_date: true
       type: date
   - social
+  - awesome-nav
 
 markdown_extensions:
   - attr_list
