@@ -1,6 +1,6 @@
 # Hi, I'm Matthew! 👋
 
-I'm a currently a computer engineering student at UCLA. Though I mainly consider myself a software engineer, I've ending up mostly working on hardware projects and [internships](https://www.linkedin.com/in/chandler-matthew/) in the past. In my free time, I like to read, meditate, and go on walks. When they're in season, I also like to watch the NFL and [League tournaments](https://en.wikipedia.org/wiki/League_of_Legends_in_esports).
+I'm currently a computer engineering student at UCLA. Though I mainly consider myself a software engineer, I've ending up mostly working on hardware projects and [internships](https://www.linkedin.com/in/chandler-matthew/) in the past. In my free time, I like to read, meditate, and go on walks. When they're in season, I also like to watch the NFL and [League tournaments](https://en.wikipedia.org/wiki/League_of_Legends_in_esports).
 
 <br>
 
