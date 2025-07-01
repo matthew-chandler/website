@@ -17,6 +17,7 @@ theme:
     - content.action.view
     - content.action.edit
     - navigation.footer
+    - navigation.indexes
   custom_dir: overrides
 
 extra:
