@@ -45,6 +45,7 @@ plugins:
   - redirects:
       redirect_maps:
         '31-days/Day1.md' : "https://sun.machandler.com"
+        '31-days/Day2.md' : "https://uuixd.machandler.com"
 
 markdown_extensions:
   - attr_list
