@@ -14,6 +14,17 @@ I'm doing a challenge where I make a new website each day during July 2025 as a 
 
 Each day I'll update this page with a brief blurb and a link to the site. All frontend source code will be hosted on [Github](https://github.com/matthew-chandler/31days).
 
+## Day 3: [Click Test](https://cps.machandler.com)
+
+**Type:** Frontend only
+
+**Time Spent:** ~1 hour
+
+**Main LLM:** Gemini 2.5 Pro
+
+Super simple site that calculates the user's clicks per second and keeps a record of their best runs. This was my first time using Gemini, and while it seemed better than GPT-4.1, I think loses the battle to Claude. Gemini seemed to frequently tell me one thing and do something else.
+
+![CPS](images/cps.png)
 
 ## Day 2: [UUIxD](https://uuixd.machandler.com)
 
