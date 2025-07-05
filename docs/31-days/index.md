@@ -8,7 +8,7 @@ I'm doing a challenge where I make a new website each day during July 2025 as a 
     - must be live -- pages aren't useful unless hosted somewhere!
 
 ??? "What's allowed"
-    - can be completely static
+    - backend not required
     - can be mostly or entirely vibe-coded
     - can self-host or use a free hosting solution (e.g. Github pages)
 
