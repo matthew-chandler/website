@@ -41,7 +41,6 @@ plugins:
       enable_creation_date: true
       type: date
   - social
-  - awesome-nav
   - redirects:
       redirect_maps:
         '31-days/Day1.md' : "https://sun.machandler.com"
