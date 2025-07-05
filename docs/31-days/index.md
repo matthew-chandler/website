@@ -14,6 +14,19 @@ I'm doing a challenge where I make a new website each day during July 2025 as a 
 
 Each day I'll update this page with a brief blurb and a link to the site. All frontend source code will be hosted on [Github](https://github.com/matthew-chandler/31days).
 
+## Day 4: [Fireworks](https://fireworks.machandler.com)
+
+**Type:** Frontend only
+
+**Time Spent:** ~1 hour
+
+**Main LLM:** Claude Sonnet 4
+
+Very basic site, although my first time using React in a while. Fireworks occasionally pop up before a city skyline background, and clicking the screen makes more fireworks appear. Happy 4th of July! 
+
+![Fireworks](images/fireworks.png)
+
+
 ## Day 3: [Click Test](https://cps.machandler.com)
 
 **Type:** Frontend only
