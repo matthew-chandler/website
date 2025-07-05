@@ -47,6 +47,7 @@ plugins:
         '31-days/sites/Day2.md' : "https://uuixd.machandler.com"
         '31-days/sites/Day3.md' : "https://cps.machandler.com"
         '31-days/sites/Day4.md' : "https://fireworks.machandler.com"
+        '31-days/sites/Day5.md' : "https://population.machandler.com"
 
 markdown_extensions:
   - attr_list

@@ -12,7 +12,21 @@ I'm doing a challenge where I make a new website each day during July 2025 as a 
     - can be mostly or entirely vibe-coded
     - can self-host or use a free hosting solution (e.g. Github pages)
 
-Each day I'll update this page with a brief blurb and a link to the site. All frontend source code will be hosted on [Github](https://github.com/matthew-chandler/31days).
+Each day I'll update this page with a brief blurb, a link to the site, and the amount of time I spent making it (includes code generation, debugging, and deployment). All frontend source code will be hosted on [Github](https://github.com/matthew-chandler/31days).
+
+## Day 5: [World Population Explorer](https://population.machandler.com)
+
+**Type:** Frontend only
+
+**Time Spent:** ~30 minutes
+
+**Main LLM:** Claude Sonnet 4
+
+Site that lets the user explore the population trends of different countries over the past six decades. I'm definitely starting to get into the hang of things now.
+
+![Population Search box](images/pop1.png)
+
+![Population Graph](images/pop2.png)
 
 ## Day 4: [Fireworks](https://fireworks.machandler.com)
 
@@ -25,7 +39,6 @@ Each day I'll update this page with a brief blurb and a link to the site. All fr
 Very basic site, although my first time using React in a while. Fireworks occasionally pop up before a city skyline background, and clicking the screen makes more fireworks appear. Happy 4th of July! 
 
 ![Fireworks](images/fireworks.png)
-
 
 ## Day 3: [Click Test](https://cps.machandler.com)
 
