@@ -14,6 +14,20 @@ I'm doing a challenge where I make a new website each day during July 2025 as a 
 
 Each day I'll update this page with a brief blurb, a link to the site, and the amount of time I spent making it (includes code generation, debugging, and deployment). All frontend source code will be hosted on [Github](https://github.com/matthew-chandler/31days).
 
+## Day 6: [League Last Game Tracker](https://league.machandler.com)
+
+**Type:** Frontend and backend
+
+**Time Spent:** ~2 hours
+
+**Main LLM:** Claude Sonnet 4
+
+Fun page that looks up what the last [League of Legends](https://www.leagueoflegends.com) game someone has played and determines how long they've been League-sober. The backend uses Flask and the frontend is just vanilla HTML/CSS/JS. It relies on the Riot Games API, for which I had to apply for an API key, to get player and match data.
+
+Believe it or not, this was my first time using the same hostname (league.machandler.com) for both the frontend and backend. When I first started out doing web development and I was trying to figure things out myself, I had always built the frontend and backend completely separately and ended up always using different hostnames; before this, all of my backends routed via api.machandler.com through a single nginx configuration file. Of course I know now that using the same hostname is common practice, and I'll probably keep doing it in the future.
+
+![League Last Game Tracker](images/league.png)
+
 ## Day 5: [World Population Explorer](https://population.machandler.com)
 
 **Type:** Frontend only

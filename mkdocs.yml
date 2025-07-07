@@ -48,6 +48,7 @@ plugins:
         '31-days/Day3.md' : "https://cps.machandler.com"
         '31-days/Day4.md' : "https://fireworks.machandler.com"
         '31-days/Day5.md' : "https://population.machandler.com"
+        '31-days/Day6.md' : "https://league.machandler.com"
 
 markdown_extensions:
   - attr_list
