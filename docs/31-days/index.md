@@ -1,5 +1,11 @@
 # Overview
 
+## Update
+
+This project is currently on hold until I determine an easier way to automate and manage existing deployments, since I don't want to have to manually deploy everything if my server ever gets wiped. I'm currently considering learning and implement Kubernetes.
+
+## Overview
+
 I'm doing a challenge where I make a new website each day during July 2025 as a way to test out code assistant capabilities, learn new tools, and have fun!
 
 ??? "Site Requirements"
